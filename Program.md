@@ -1,1 +1,1 @@
-start "Corddown.exe"
+# how to open Corddown engine
